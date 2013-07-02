@@ -1,4 +1,4 @@
-sss-press-kit
+The Startup Space Press kit
 =============
 
-Press Kit
+Press Kit 
